@@ -1,6 +1,6 @@
 const bcrypt =require('bcrypt');
 const saltRound = 10;
-const secretKey = 'acharya@23#43'
+const secretKey = 'harsh@01#95'
 const jwt = require('jsonwebtoken')
 
 const arr = []; //mock database 
